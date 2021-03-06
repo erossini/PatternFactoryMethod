@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageProjectUrl>https://www.puresourcecode.com</PackageProjectUrl>
+    <Authors>Enrico Rossini</Authors>
+    <Company>PureSourceCode</Company>
+    <RepositoryUrl>https://github.com/erossini/PatternFactoryMethod</RepositoryUrl>
+    <PackageTags>design-pattern, factory-method, pattern</PackageTags>
+    <Description>The factory method pattern in C#/.NET is a creational pattern that uses factory methods to deal with the problem of creating objects without having to specify the exact class of the object that will be created. We can create objects by calling a factory method - either specified in an interface and implemented by child classes, or implemented in a base class and optionally overridden by derived classes - rather than by calling a constructor.</Description>
+  </PropertyGroup>
+
+</Project>
